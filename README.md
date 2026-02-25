@@ -52,9 +52,13 @@ In the project root folder, create a file named:
 Inside that file, add:
 
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASSWORD=your_mysql_password
+
 DB_NAME=meeting_scheduler
+
 JWT_SECRET=yourSecretKey
 
 ⚠️ Important:
@@ -188,4 +192,5 @@ This logic is implemented in the service layer.
 # 👨‍💻 Author
 
 Ravindra Kumar  
+
 Backend Developer Intern Candidate
