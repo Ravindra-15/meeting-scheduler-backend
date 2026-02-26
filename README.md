@@ -188,4 +188,5 @@ This logic is implemented in the service layer.
 # 👨‍💻 Author
 
 Ravindra Kumar  
-Backend Developer Intern Candidate
+
+Backend Developer
