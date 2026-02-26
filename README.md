@@ -193,4 +193,4 @@ This logic is implemented in the service layer.
 
 Ravindra Kumar  
 
-Backend Developer Intern Candidate
+Backend Developer
